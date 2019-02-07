@@ -1,0 +1,93 @@
+.abtn {
+    font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 300px;
+
+}
+.btn-xl {
+    padding: 10px 35px;
+    font-size: 15px;
+	white-space: nowrap;
+	margin:20px;
+
+}
+.btn-outline {
+    color: #000080;
+    background-color: white;
+    border-color: #000080;
+    border: 1px solid;
+
+}
+
+.btn-outline:hover{
+    text-align: center;
+	background-color: white;
+    color:blue;
+	text-decoration: none;
+}
+.learn{
+    background-color: blue;
+}
+back {
+    background-color: navy !important;
+    height: 50px;
+
+}
+.brand {
+
+    color: white;
+
+}
+.brand:hover{
+    text-decoration: none;
+    color: lightblue;
+}
+
+textarea .ta {
+    resize: none;
+    width: 540px;
+    height: 29px;
+}
+.ta{
+     width: 300px;
+    height: 29px;
+    resize: none;
+}
+#middle{
+    position: absolute;
+    top:25%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.label{
+    text-align: right;
+
+}
+
+.b{
+    justify-content: center;
+    text-align: center;
+}
+.navbar{
+    background-color: navy;
+}
+
+#hidden{
+    top: 350px;
+    position: absolute;
+}
+input[type=submit] {
+    padding:5px 15px;
+
+
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    color: #000080;
+    background-color: white;
+    border-color: #000080;
+    border: 1px solid;
+}
